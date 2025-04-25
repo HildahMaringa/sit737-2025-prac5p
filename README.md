@@ -62,7 +62,7 @@ personal-portfolio/
 ### 1. Clone the Repository
 
 
-git clone https://github.com/Peter-Oenga/sit737-2025-prac5p.git
+git clone https://github.com/HildahMaringa/sit737-2025-prac5p.git
 
 cd sit737-2025-prac5p
 
